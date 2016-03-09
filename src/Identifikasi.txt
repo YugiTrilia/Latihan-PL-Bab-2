@@ -1,0 +1,4 @@
+Class : MahasiswaLari, Lapangan
+Object : mhs[n]. . .
+Attribut : panjang, lebar, keliling, nim, nama, jumahPutaran, jumlah_waktu
+Method : hitungJarak, Tampil, Perhitungan, Pemenang
